@@ -9,6 +9,7 @@ import pyjokes
 name = "nadia"
 #cori  Fabiana Nadia
 #anma
+#Esta es una linea nueva d comando
 listener = sr.Recognizer()
 
 engine = pyttsx3.init()
