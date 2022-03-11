@@ -10,6 +10,7 @@ name = "nadia"
 #cori  Fabiana Nadia
 #anma
 #Esta es una linea nueva d comando
+#uno 
 listener = sr.Recognizer()
 
 engine = pyttsx3.init()
